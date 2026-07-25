@@ -1,0 +1,30 @@
+========== TRANSACTION SUMMARY REPORT ==========
+
+Total Revenue (SUCCESS only): ₹360433.64
+Average Transaction Amount:   ₹5223.68
+Failed Transactions:          26
+
+--- Revenue By Category ---
+Groceries       ₹83355.01
+Clothing        ₹80746.70
+Electronics     ₹57356.57
+Furniture       ₹40682.09
+Books           ₹19804.01
+Sports          ₹78489.26
+
+--- Transaction Count By Customer ---
+Rahul           5
+Rohit           12
+Priya           14
+Neha            12
+Sneha           8
+Karan           10
+Amit            9
+Anjali          8
+Vikram          12
+Pooja           5
+
+--- Highest Transaction ---
+ID: 52 | Customer: Rahul | Category: Sports | Amount: ₹9991.93
+
+==================================================
